@@ -172,7 +172,6 @@ class _DetailScreenState extends State<DetailScreen> {
                   ),
                   SizedBox(height: 30),
                   Text(
-                    // <-- TEKS NARASI PANJANG DIKEMBALIKAN
                     "Haloo semuanya, kenalin aku Akhdan Yafi Widiyanto, Tech Anthusiast, Mahasiswa informatika Universitas Al - Azhar Indonesia, saat ini aku menduduki semester 5, saat ini saya sedang mendalami tentang flutter, dan sql atau basis data, aku punya ketertarikan yang tinggi dalam teknologi diantaranya yaitu flutter, saya juga mampu berkerja dengan tim ataupun sendiri, senang bertemu dengan kalian semua..", 
                     style: TextStyle(
                       color: Colors.white, 
